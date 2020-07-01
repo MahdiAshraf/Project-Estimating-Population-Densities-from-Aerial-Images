@@ -1,4 +1,4 @@
-# Project-Estimating-Population-Densities-from-Aerial-Images
+# Capstone-1-Estimating-Population-Densities-from-Aerial-Images
 This project develops a machine learning model that learns to predict population sizes from Aerial images
 
 There are 2 parts that combine to make this project:
